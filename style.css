@@ -198,7 +198,7 @@ h2 {
 
     100% {
         opacity: 0;
-        transform: translate(-5%);
+        transform: translateX(-5%);
     }
 }
 
